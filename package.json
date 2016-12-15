@@ -1,0 +1,20 @@
+{
+  "name": "ts-playground",
+  "version": "1.0.0",
+  "description": "Design patterns and things in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "design",
+    "patterns",
+    "typescript"
+  ],
+  "author": "Phil Mander",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-loader": "^1.3.2",
+    "webpack": "^1.14.0"
+  }
+}
